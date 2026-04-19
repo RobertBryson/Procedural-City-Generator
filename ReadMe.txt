@@ -1,5 +1,12 @@
 Robert Bryson - 2202279
 
+WARNING:
+
+This project uses high amounts of memory, especially where the outer spline is large, buildings are tall or multiple cities are generated within a small time frame.
+Please, do not max out the values, before testing performance on smaller values.
+If the editors memory usage becomes too high after generation, please restart the editor before continuing to generate new cities.
+
+
 Set Up:
 	For this project, you will need Unreal Engine 5.7.3
 
@@ -33,10 +40,3 @@ How To Use The City Generator:
 	6. Press "Generate" to generate the city
 
 	7. Play the level, to explore the city in first person
-
-
-WARNING:
-
-This project uses high amounts of memory, especially where the outer spline is large, buildings are tall or multiple cities are generated within a small time frame.
-Please, do not max out the values, before testing performance on smaller values.
-If the editors memory usage becomes too high after generation, please restart the editor before continuing to generate new cities.
