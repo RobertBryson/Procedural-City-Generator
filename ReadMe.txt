@@ -29,7 +29,7 @@ Set Up:
 How To Use The City Generator:
 	1. Open the editor utility widget, "EUW_PCG-Control", located in the "Content" folder
 
-	2. Press "Run Utility Widget"
+	2. Press "Run Utility Widget" - (Note that the window may need resized to view all inputs)
 
 	3. Press "Clean Up" to remove the existing city, then "Flush Cache" to help reduce memory
 
@@ -40,3 +40,4 @@ How To Use The City Generator:
 	6. Press "Generate" to generate the city
 
 	7. Play the level, to explore the city in first person
+
